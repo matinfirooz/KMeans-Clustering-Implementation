@@ -1,4 +1,4 @@
-# Hardware Accelerators Course - Homework 1: KMeans Clustering Implementation
+# KMeans Clustering Implementation
 
 This project is the first assignment for the "Hardware Accelerators" course at Shahid Beheshti University, Faculty of Engineering and Computer Science, for the Spring semester of 1402-1403. The primary goal is to implement the KMeans clustering algorithm from scratch and apply it to two different datasets.
 
