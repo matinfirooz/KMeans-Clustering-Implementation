@@ -33,7 +33,7 @@ The algorithm follows these steps:
 ### Objective
 Apply the custom-built KMeans algorithm to a set of 3D data points.
 
-* **Dataset**: `means_3D_data.csv`.
+* **Dataset**: `Kmeans_3D_data.csv`.
 * **Parameters**:
     * Number of clusters (k): 3.
     * Stopping criteria: A maximum of 10 iterations or until the cluster centers do not change.
