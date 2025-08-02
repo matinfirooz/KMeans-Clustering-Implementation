@@ -140,10 +140,12 @@ HW1_StudentNumber_Fullname.zip
 
 ```
 ├── Part1_3D_Clustering/            
-│   ├── means_3D_data.csv     
-│   ├── output_3d_clusters.csv    
-├── Part2_Customer_Segmentation/        
+│   ├── Part1_3D_Clustering.ipynb
+├── Part2_Customer_Segmentation/            
+│   ├── Part2_Customer_Segmentation.ipynb  
+├── CSV Files/        
 │   ├── Customers.csv 
-│   ├── output_customer_segments.csv
+│   ├── Kmeans_3D_data.csv
+│   ├── S2-Output.csv   
 ├── README.md           
 ```
